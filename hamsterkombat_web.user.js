@@ -6,8 +6,8 @@
 // @author       VladimirSauko
 // @include      *://hamsterkombat.io/*
 // @icon         https://hamsterkombat.io/images/icons/hamster-coin.png
-// @downloadURL  https://github.com/GravelFire/HamsterKombatWebJS/raw/master/hamsterkombat_web.js
-// @updateURL    https://github.com/GravelFire/HamsterKombatWebJS/raw/master/hamsterkombat_web.js
+// @downloadURL  https://github.com/GravelFire/HamsterKombatWebJS/raw/master/hamsterkombat_web.user.js
+// @updateURL    https://github.com/GravelFire/HamsterKombatWebJS/raw/master/hamsterkombat_web.user.js
 // @homepage     https://github.com/GravelFire/HamsterKombatWebJS
 // ==/UserScript==
 //
